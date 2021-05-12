@@ -16,7 +16,7 @@
 * [Чек-лист.](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0)
 
 В качестве тестовых данных использовались:
-* [Информация об ошибке от клиента.](https://github.com/Masikoshka/DZ_1.2_Money_Transfer/blob/master/src/Main.java)
+* [Информация об ошибке от клиента.](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0)
 * [Граничные значения типа `int`.](https://ru.wikibooks.org/wiki/Java/%D0%A2%D0%B8%D0%BF%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 
 
